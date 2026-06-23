@@ -134,7 +134,7 @@ Currently exploring:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/samiksha-508a82317" target="blank">
+<a href="https://www.linkedin.com/in/samiksha-508a82317/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
