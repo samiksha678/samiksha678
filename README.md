@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Samiksha</h1>
 <h3 align="center">BCA (Cloud Computing) Student | Aspiring Cloud & DevOps Engineer</h3>
 
@@ -77,4 +76,4 @@
 To build a successful career in Cloud Computing and DevOps by leveraging technical skills, continuous learning, and practical experience to create scalable, secure, and efficient cloud-based solutions.
 
 ### ⭐ Always Learning | ☁️ Cloud Enthusiast | 🚀 Future DevOps Engineer
-```
+
