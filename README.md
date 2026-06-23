@@ -134,15 +134,15 @@ Currently exploring:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<a href="https://www.linkedin.com/samiksha-508a82317" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+<a href="https://github.com/samiksha678" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:samiksha4664@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
